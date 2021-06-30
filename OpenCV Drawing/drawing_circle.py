@@ -1,5 +1,4 @@
 import cv2
-import random
 
 image = cv2.imread("../Images/image_with_colors.png")
 image = cv2.circle(
